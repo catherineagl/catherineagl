@@ -30,11 +30,5 @@ No todo es sintaxis y despliegues. Para mantener el equilibrio creativo, me enco
 
 ---
 
-## 📈 Estadísticas de GitHub
-![Tus Estadísticas](https://github-readme-stats.vercel.app/api?username=catherineagl&show_icons=true&theme=dracula)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=catherineagl&layout=compact&theme=dracula)
-
----
-
 ## 📫 ¡Conectemos!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/catherine-aguilera/)
