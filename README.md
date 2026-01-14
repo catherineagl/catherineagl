@@ -1,16 +1,40 @@
-## Hi there 👋
+# ¡Hola! Soy Catherine 👋
 
-<!--
-**catherineagl/catherineagl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full Stack Developer & Aspiring AI Software Engineer
+Con **4 años de experiencia** transformando ideas en aplicaciones web escalables. Actualmente, estoy evolucionando mi carrera hacia la **Ingeniería de Software de IA**, integrando modelos inteligentes en el ecosistema de JavaScript.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Mi Stack Tecnológico
+
+
+* **Frontend:** React (Experta), Next.js, Tailwind CSS, Redux.
+* **Backend:** Node.js, Express, PHP, Java, C#, FastAPI.
+* **Databases:** MySQL, PostgreSQL, Firebase.
+* **AI en proceso:** LangChain, OpenAI API, Python (básico), Prompt Engineering.
+
+---
+
+## 🎯 En qué estoy trabajando
+* 🏗️ Construyendo proyectos que unen **React + FastAPI + IA** para automatizar flujos de trabajo.
+* 🤖 Explorando la integración de software con hardware.
+
+---
+
+## 🌱 Más allá del código
+No todo es sintaxis y despliegues. Para mantener el equilibrio creativo, me encontrarás:
+* 🧱 **Armando Legos:** Me apasiona la ingeniería detrás de cada pieza; es mi forma de meditar.
+* 🤖 **Robótica:** Experimentando con pequeños proyectos de automatización.
+* 🏖️ **En la playa:** Mi lugar favorito para recargar energías y desconectar.
+* ☕ **Café y Lógica:** Siempre lista para una buena charla sobre el futuro de la tecnología.
+
+---
+
+## 📈 Estadísticas de GitHub
+![Tus Estadísticas](https://github-readme-stats.vercel.app/api?username=catherineagl&show_icons=true&theme=dracula)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=catherineagl&layout=compact&theme=dracula)
+
+---
+
+## 📫 ¡Conectemos!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/catherine-aguilera/)
