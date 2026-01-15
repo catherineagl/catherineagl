@@ -21,12 +21,10 @@ Con **4 años de experiencia** transformando ideas en aplicaciones web escalable
 
 ---
 
-## 🌱 Más allá del código
-No todo es sintaxis y despliegues. Para mantener el equilibrio creativo, me encontrarás:
-* 🧱 **Armando Legos:** Me apasiona la ingeniería detrás de cada pieza; es mi forma de meditar.
-* 🤖 **Robótica:** Experimentando con pequeños proyectos de automatización.
-* 🏖️ **En la playa:** Mi lugar favorito para recargar energías y desconectar.
-* ☕ **Café y Lógica:** Siempre lista para una buena charla sobre el futuro de la tecnología.
+## :zap: Actividad Reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 ---
 
