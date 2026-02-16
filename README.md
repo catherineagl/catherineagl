@@ -11,7 +11,7 @@ Con **4 años de experiencia** transformando ideas en aplicaciones web escalable
 * **Frontend:** React (Experta), Next.js, Tailwind CSS, Redux.
 * **Backend:** Node.js, Express, PHP, Java, C#, FastAPI.
 * **Databases:** MySQL, PostgreSQL, Firebase.
-* **AI en proceso:** LangChain, OpenAI API, Python (básico), Prompt Engineering.
+* **AI en proceso:** LangChain, OpenAI API, Python, Prompt Engineering.
 
 ---
 
